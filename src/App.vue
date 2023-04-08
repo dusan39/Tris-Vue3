@@ -76,10 +76,6 @@
 
     <button @click="resetGame" class="mb-5 px-4 py-2 bg-gray-800 rounded text-white dark:text-gray-800 dark:bg-white">Reset</button>
 
-
-
-
-
     <div class="mb-5 flex items-center justify-center">
       <button @click="toggleDark()" class="px-4 py-2 bg-gray-800  rounded text-white dark:text-gray-800 dark:bg-white">{{ isDark ? 'Light' : 'Dark' }} Mode</button>
     </div>
