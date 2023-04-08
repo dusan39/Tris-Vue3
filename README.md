@@ -10,6 +10,7 @@ Questo progetto è stato realizzato con l'utilizzo di:
 
 - Link depoly dell'app con netlify
 - Funzionalità
+- Scelte logiche
 
 ## Link deploy dell'app con netlify
 
@@ -24,4 +25,9 @@ Un paio di funzionalità aggiuntive in questo progetto che ho voluto aggiungere 
 > La possibilità di scegliere il tema dark/light mode, oppure si adatta in base alle preferenze del sistema.
 
 > Far visualizzare il turno del giocatore corrente tramite.
+
+# Scelte logiche
+
+Ho deciso di usare per la prima volta tailwind per provare un framework CSS diverso rispetto a bootstrap, capendone il funzionamento e la sua integrazione nel codice, facendo pratica anche su questo aspetto qui.
+
 
